@@ -1,0 +1,1655 @@
+[
+    {
+        "id": 8262,
+        "japaParticipants": {
+            "id": 7010,
+            "email": "aanand5892@gmail.com",
+            "name": "Abhishek Ananda IC pr",
+            "dbId": "HLZ230954"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:02",
+        "updatedDateTime": "2023-07-23T09:04:02"
+    },
+    {
+        "id": 8263,
+        "japaParticipants": {
+            "id": 7011,
+            "email": "abhishekjharoushan@gmail.com",
+            "name": "Abhishek jha",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:03",
+        "updatedDateTime": "2023-07-23T09:04:03"
+    },
+    {
+        "id": 8264,
+        "japaParticipants": {
+            "id": 7012,
+            "email": "abk8537@gmail.com",
+            "name": "Abhishek Kr EE pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 88,
+        "duration": "1 hours 28 minutes ",
+        "joinLeaveTime": " 05:48:56 AM -  07:16:55 AM",
+        "joinTime": "05:48:56",
+        "leaveTime": "07:16:55",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:04",
+        "updatedDateTime": "2023-07-23T09:04:04"
+    },
+    {
+        "id": 8265,
+        "japaParticipants": {
+            "id": 7013,
+            "email": "abhishek80.a2s@gmail.com",
+            "name": "Abhishek Pandey pr",
+            "dbId": "HLZ230761"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:04",
+        "updatedDateTime": "2023-07-23T09:04:04"
+    },
+    {
+        "id": 8266,
+        "japaParticipants": {
+            "id": 7014,
+            "email": "ak7268901@gmail.com",
+            "name": "Abhishek pr Nawada",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:05",
+        "updatedDateTime": "2023-07-23T09:04:05"
+    },
+    {
+        "id": 8267,
+        "japaParticipants": {
+            "id": 7015,
+            "email": "abhoysaha1@gmail.com",
+            "name": "Abhoy pr",
+            "dbId": "HLZ230615"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 147,
+        "duration": "2 hours 27 minutes ",
+        "joinLeaveTime": " 03:31:50 AM -  05:58:20 AM",
+        "joinTime": "03:31:50",
+        "leaveTime": "05:58:20",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:06",
+        "updatedDateTime": "2023-07-23T09:04:06"
+    },
+    {
+        "id": 8268,
+        "japaParticipants": {
+            "id": 7016,
+            "email": "call.ajay21@gmail.com",
+            "name": "Ajay pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:06",
+        "updatedDateTime": "2023-07-23T09:04:06"
+    },
+    {
+        "id": 8269,
+        "japaParticipants": {
+            "id": 7017,
+            "email": "ajay41707@gmail.com",
+            "name": "Ajay pr(Mech)",
+            "dbId": "HLZ230299"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:07",
+        "updatedDateTime": "2023-07-23T09:04:07"
+    },
+    {
+        "id": 8270,
+        "japaParticipants": {
+            "id": 7018,
+            "email": "ajeetajeethemant@gmail.com",
+            "name": "Ajeet pr",
+            "dbId": "HLZ230122"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:08",
+        "updatedDateTime": "2023-07-23T09:04:08"
+    },
+    {
+        "id": 8271,
+        "japaParticipants": {
+            "id": 7019,
+            "email": "akashkr930487@gmail.com",
+            "name": "Akash pr (Akarsak Srihari Pr)",
+            "dbId": "HLZ230177"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:08",
+        "updatedDateTime": "2023-07-23T09:04:08"
+    },
+    {
+        "id": 8272,
+        "japaParticipants": {
+            "id": 7020,
+            "email": "ajha9608@gmail.com",
+            "name": "Aman Jha",
+            "dbId": "HLZ230781"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 17,
+        "duration": "0 hours 17 minutes ",
+        "joinLeaveTime": " 06:37:25 AM -  07:03:09 AM",
+        "joinTime": "06:37:25",
+        "leaveTime": "07:03:09",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:09",
+        "updatedDateTime": "2023-07-23T09:04:09"
+    },
+    {
+        "id": 8273,
+        "japaParticipants": {
+            "id": 7021,
+            "email": "amitraj581@gmail.com",
+            "name": "Amit Raj pr",
+            "dbId": "HLZ230173"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:10",
+        "updatedDateTime": "2023-07-23T09:04:10"
+    },
+    {
+        "id": 8274,
+        "japaParticipants": {
+            "id": 7022,
+            "email": "animeshmonty@gmail.com",
+            "name": "Animesh pr",
+            "dbId": "HLZ230361"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:10",
+        "updatedDateTime": "2023-07-23T09:04:10"
+    },
+    {
+        "id": 8275,
+        "japaParticipants": {
+            "id": 7023,
+            "email": "kumarankush6200@gmail.com",
+            "name": "Ankush pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:11",
+        "updatedDateTime": "2023-07-23T09:04:11"
+    },
+    {
+        "id": 8276,
+        "japaParticipants": {
+            "id": 7024,
+            "email": "anshuk1510@gmail.com",
+            "name": "Anshu pr",
+            "dbId": "HLZ230427"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 34,
+        "duration": "0 hours 34 minutes ",
+        "joinLeaveTime": " 04:46:25 AM -  05:20:10 AM",
+        "joinTime": "04:46:25",
+        "leaveTime": "05:20:10",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:12",
+        "updatedDateTime": "2023-07-23T09:04:12"
+    },
+    {
+        "id": 8277,
+        "japaParticipants": {
+            "id": 7025,
+            "email": "akg9023@gmail.com",
+            "name": "Ashish pr",
+            "dbId": "HLZ230787"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:12",
+        "updatedDateTime": "2023-07-23T09:04:12"
+    },
+    {
+        "id": 8278,
+        "japaParticipants": {
+            "id": 7026,
+            "email": "atulkumar15jan@gmail.com",
+            "name": "Atul pr",
+            "dbId": "HLZ230303"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 74,
+        "duration": "1 hours 14 minutes ",
+        "joinLeaveTime": " 06:30:37 AM -  07:43:45 AM",
+        "joinTime": "06:30:37",
+        "leaveTime": "07:43:45",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:13",
+        "updatedDateTime": "2023-07-23T09:04:13"
+    },
+    {
+        "id": 8279,
+        "japaParticipants": {
+            "id": 7027,
+            "email": "atulsingh.asn@gmail.com",
+            "name": "Atul Singh",
+            "dbId": "HLZ230142"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:14",
+        "updatedDateTime": "2023-07-23T09:04:14"
+    },
+    {
+        "id": 8280,
+        "japaParticipants": {
+            "id": 7028,
+            "email": "abinashshaw16@gmail.com",
+            "name": "Avinash pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:14",
+        "updatedDateTime": "2023-07-23T09:04:14"
+    },
+    {
+        "id": 8281,
+        "japaParticipants": {
+            "id": 7029,
+            "email": "ars.raja23@gmail.com",
+            "name": "Avishek Raj (Raja pr)",
+            "dbId": "HLZ230009"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 79,
+        "duration": "1 hours 19 minutes ",
+        "joinLeaveTime": " 06:18:42 AM -  07:36:35 AM",
+        "joinTime": "06:18:42",
+        "leaveTime": "07:36:35",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:15",
+        "updatedDateTime": "2023-07-23T09:04:15"
+    },
+    {
+        "id": 8282,
+        "japaParticipants": {
+            "id": 7030,
+            "email": "mishrabm96@gmail.com",
+            "name": "Balmukand pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:15",
+        "updatedDateTime": "2023-07-23T09:04:15"
+    },
+    {
+        "id": 8283,
+        "japaParticipants": {
+            "id": 7031,
+            "email": "bhanupratapsingh1380@gmail.com",
+            "name": "Bhanu pr",
+            "dbId": "HLZ230008"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:16",
+        "updatedDateTime": "2023-07-23T09:04:16"
+    },
+    {
+        "id": 8284,
+        "japaParticipants": {
+            "id": 7032,
+            "email": "bhskranand561@gmail.com",
+            "name": "Bhaskar Anand pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 51,
+        "duration": "0 hours 51 minutes ",
+        "joinLeaveTime": " 06:00:38 AM -  06:51:34 AM",
+        "joinTime": "06:00:38",
+        "leaveTime": "06:51:34",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:17",
+        "updatedDateTime": "2023-07-23T09:04:17"
+    },
+    {
+        "id": 8285,
+        "japaParticipants": {
+            "id": 7033,
+            "email": "biswajitrowani@gmail.com",
+            "name": "BiswajIt pr",
+            "dbId": "HLZ230135"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 103,
+        "duration": "1 hours 43 minutes ",
+        "joinLeaveTime": " 05:48:03 AM -  07:30:57 AM",
+        "joinTime": "05:48:03",
+        "leaveTime": "07:30:57",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:17",
+        "updatedDateTime": "2023-07-23T09:04:17"
+    },
+    {
+        "id": 8286,
+        "japaParticipants": {
+            "id": 7034,
+            "email": "brahmanandamahato@gmail.com",
+            "name": "Brahmanand pr",
+            "dbId": "HLZ230819"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 59,
+        "duration": "0 hours 59 minutes ",
+        "joinLeaveTime": " 06:48:47 AM -  07:47:22 AM",
+        "joinTime": "06:48:47",
+        "leaveTime": "07:47:22",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:18",
+        "updatedDateTime": "2023-07-23T09:04:18"
+    },
+    {
+        "id": 8287,
+        "japaParticipants": {
+            "id": 7035,
+            "email": "chandan.hitinstru@gmail.com",
+            "name": "Chandan Pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:19",
+        "updatedDateTime": "2023-07-23T09:04:19"
+    },
+    {
+        "id": 8288,
+        "japaParticipants": {
+            "id": 7036,
+            "email": "devashish0046@gmail.com",
+            "name": "Devashish pr",
+            "dbId": "HLZ230125"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:19",
+        "updatedDateTime": "2023-07-23T09:04:19"
+    },
+    {
+        "id": 8289,
+        "japaParticipants": {
+            "id": 7037,
+            "email": "jaiswalgaurav7183@gmail.com",
+            "name": "Gaurav Jaiswal",
+            "dbId": "HLZ230195"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:20",
+        "updatedDateTime": "2023-07-23T09:04:20"
+    },
+    {
+        "id": 8290,
+        "japaParticipants": {
+            "id": 7038,
+            "email": "gauravsingh181997@gmail.com",
+            "name": "Gaurav pr",
+            "dbId": "HLZ230650"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:21",
+        "updatedDateTime": "2023-07-23T09:04:21"
+    },
+    {
+        "id": 8291,
+        "japaParticipants": {
+            "id": 7039,
+            "email": "gyan0prakash0@gmail.com",
+            "name": "Gopal Chandra pr",
+            "dbId": "HLZ230031"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 122,
+        "duration": "2 hours 2 minutes ",
+        "joinLeaveTime": " 05:19:41 AM -  07:20:29 AM",
+        "joinTime": "05:19:41",
+        "leaveTime": "07:20:29",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:21",
+        "updatedDateTime": "2023-07-23T09:04:21"
+    },
+    {
+        "id": 8292,
+        "japaParticipants": {
+            "id": 7040,
+            "email": "himanshuchoubey823@gmail.com",
+            "name": "Himanshu Choubey Pr",
+            "dbId": "HLZ230732"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:22",
+        "updatedDateTime": "2023-07-23T09:04:22"
+    },
+    {
+        "id": 8293,
+        "japaParticipants": {
+            "id": 7041,
+            "email": "himanshusr2000@gmail.com",
+            "name": "Himanshu Srivastava",
+            "dbId": "HLZ230379"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:23",
+        "updatedDateTime": "2023-07-23T09:04:23"
+    },
+    {
+        "id": 8294,
+        "japaParticipants": {
+            "id": 7042,
+            "email": "jpclsr@gmail.com",
+            "name": "Janardhan pr",
+            "dbId": "HLZ230165"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:23",
+        "updatedDateTime": "2023-07-23T09:04:23"
+    },
+    {
+        "id": 8295,
+        "japaParticipants": {
+            "id": 7043,
+            "email": "KARTIK.KARTIK11@GMAIL.COM",
+            "name": "Kartik pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:24",
+        "updatedDateTime": "2023-07-23T09:04:24"
+    },
+    {
+        "id": 8296,
+        "japaParticipants": {
+            "id": 7044,
+            "email": "kishlay111999@gmail.com",
+            "name": "Kishlay",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:25",
+        "updatedDateTime": "2023-07-23T09:04:25"
+    },
+    {
+        "id": 8297,
+        "japaParticipants": {
+            "id": 7045,
+            "email": "mohit05121997@gmail.com",
+            "name": "Mohit pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:25",
+        "updatedDateTime": "2023-07-23T09:04:25"
+    },
+    {
+        "id": 8298,
+        "japaParticipants": {
+            "id": 7046,
+            "email": "naskarmithun@gmail.com",
+            "name": "Mukund Dayal Pr (Mithun Naskar)",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 41,
+        "duration": "0 hours 41 minutes ",
+        "joinLeaveTime": " 06:49:25 AM -  07:29:49 AM",
+        "joinTime": "06:49:25",
+        "leaveTime": "07:29:49",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:26",
+        "updatedDateTime": "2023-07-23T09:04:26"
+    },
+    {
+        "id": 8299,
+        "japaParticipants": {
+            "id": 7047,
+            "email": "nandkishore.cse.hit@gmail.com",
+            "name": "Nandakishore pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:27",
+        "updatedDateTime": "2023-07-23T09:04:27"
+    },
+    {
+        "id": 8300,
+        "japaParticipants": {
+            "id": 7048,
+            "email": "mani4neel98@gmail.com",
+            "name": "Neelmani pr",
+            "dbId": "HLZ230323"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:28",
+        "updatedDateTime": "2023-07-23T09:04:28"
+    },
+    {
+        "id": 8301,
+        "japaParticipants": {
+            "id": 7049,
+            "email": "nikhilsaphal2000@gmail.com",
+            "name": "Nikhil pr",
+            "dbId": "HLZ230306"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:28",
+        "updatedDateTime": "2023-07-23T09:04:28"
+    },
+    {
+        "id": 8302,
+        "japaParticipants": {
+            "id": 7051,
+            "email": "nkr159357258@gmail.com",
+            "name": "Nikhilesh Roy pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 87,
+        "duration": "1 hours 27 minutes ",
+        "joinLeaveTime": " 06:06:24 AM -  07:33:06 AM",
+        "joinTime": "06:06:24",
+        "leaveTime": "07:33:06",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:29",
+        "updatedDateTime": "2023-07-23T09:04:29"
+    },
+    {
+        "id": 8303,
+        "japaParticipants": {
+            "id": 7053,
+            "email": "neelabhanand99@gmail.com",
+            "name": "Nilmadhava Pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 169,
+        "duration": "2 hours 49 minutes ",
+        "joinLeaveTime": " 04:22:14 AM -  07:11:11 AM",
+        "joinTime": "04:22:14",
+        "leaveTime": "07:11:11",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:30",
+        "updatedDateTime": "2023-07-23T09:04:30"
+    },
+    {
+        "id": 8304,
+        "japaParticipants": {
+            "id": 7054,
+            "email": "topniraj@gmail.com",
+            "name": "Niraj Sah pr",
+            "dbId": "HLZ230026"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 88,
+        "duration": "1 hours 28 minutes ",
+        "joinLeaveTime": " 05:26:13 AM -  06:54:13 AM",
+        "joinTime": "05:26:13",
+        "leaveTime": "06:54:13",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:30",
+        "updatedDateTime": "2023-07-23T09:04:30"
+    },
+    {
+        "id": 8305,
+        "japaParticipants": {
+            "id": 7055,
+            "email": "mailnishantshekhar@gmail.com",
+            "name": "Nishant Shekhar Pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:31",
+        "updatedDateTime": "2023-07-23T09:04:31"
+    },
+    {
+        "id": 8306,
+        "japaParticipants": {
+            "id": 7056,
+            "email": "pkdubey1998@gmail.com",
+            "name": "Pankaj Dubey pr",
+            "dbId": "HLZ230281"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:31",
+        "updatedDateTime": "2023-07-23T09:04:31"
+    },
+    {
+        "id": 8307,
+        "japaParticipants": {
+            "id": 7057,
+            "email": "kintupandey93@gmail.com",
+            "name": "Pawan pandey pr",
+            "dbId": "HLZ230609"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 51,
+        "duration": "0 hours 51 minutes ",
+        "joinLeaveTime": " 07:05:40 AM -  07:56:15 AM",
+        "joinTime": "07:05:40",
+        "leaveTime": "07:56:15",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:32",
+        "updatedDateTime": "2023-07-23T09:04:32"
+    },
+    {
+        "id": 8308,
+        "japaParticipants": {
+            "id": 7058,
+            "email": "Prabhakar.jha25021996@gmail.com",
+            "name": "Prabhakar pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 47,
+        "duration": "0 hours 47 minutes ",
+        "joinLeaveTime": " 07:06:21 AM -  07:53:03 AM",
+        "joinTime": "07:06:21",
+        "leaveTime": "07:53:03",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:33",
+        "updatedDateTime": "2023-07-23T09:04:33"
+    },
+    {
+        "id": 8309,
+        "japaParticipants": {
+            "id": 7059,
+            "email": "pramit.hit@gmail.com",
+            "name": "Pramit pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:33",
+        "updatedDateTime": "2023-07-23T09:04:33"
+    },
+    {
+        "id": 8310,
+        "japaParticipants": {
+            "id": 7060,
+            "email": "praween868@gmail.com",
+            "name": "Praween",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:34",
+        "updatedDateTime": "2023-07-23T09:04:34"
+    },
+    {
+        "id": 8311,
+        "japaParticipants": {
+            "id": 7061,
+            "email": "puru.anand20@gmail.com",
+            "name": "Purushottam pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 59,
+        "duration": "0 hours 59 minutes ",
+        "joinLeaveTime": " 05:17:31 AM -  06:15:39 AM",
+        "joinTime": "05:17:31",
+        "leaveTime": "06:15:39",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:35",
+        "updatedDateTime": "2023-07-23T09:04:35"
+    },
+    {
+        "id": 8312,
+        "japaParticipants": {
+            "id": 7062,
+            "email": "raghurajbardhan123@gmail.com",
+            "name": "Rajbardhan",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 21,
+        "duration": "0 hours 21 minutes ",
+        "joinLeaveTime": " 07:39:14 AM -  07:59:37 AM",
+        "joinTime": "07:39:14",
+        "leaveTime": "07:59:37",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:35",
+        "updatedDateTime": "2023-07-23T09:04:35"
+    },
+    {
+        "id": 8313,
+        "japaParticipants": {
+            "id": 7063,
+            "email": "radharajivsoni@gmail.com",
+            "name": "Rajiv soni",
+            "dbId": "HLZ230087"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:36",
+        "updatedDateTime": "2023-07-23T09:04:36"
+    },
+    {
+        "id": 8314,
+        "japaParticipants": {
+            "id": 7064,
+            "email": "rk51633@gmail.com",
+            "name": "Rakesh pr",
+            "dbId": "HLZ230807"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:37",
+        "updatedDateTime": "2023-07-23T09:04:37"
+    },
+    {
+        "id": 8315,
+        "japaParticipants": {
+            "id": 7065,
+            "email": "krisranjit100@gmail.com",
+            "name": "Ranjit pr",
+            "dbId": "HLZ230822"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 55,
+        "duration": "0 hours 55 minutes ",
+        "joinLeaveTime": " 06:31:23 AM -  07:26:07 AM",
+        "joinTime": "06:31:23",
+        "leaveTime": "07:26:07",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:37",
+        "updatedDateTime": "2023-07-23T09:04:37"
+    },
+    {
+        "id": 8316,
+        "japaParticipants": {
+            "id": 7066,
+            "email": "ravishankar.purnia@gmail.com",
+            "name": "Ravishankar kr pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:38",
+        "updatedDateTime": "2023-07-23T09:04:38"
+    },
+    {
+        "id": 8317,
+        "japaParticipants": {
+            "id": 7067,
+            "email": "ravish.prasad4300@gmail.com",
+            "name": "Ravishankar prasad pr",
+            "dbId": "HLZ230394"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 22,
+        "duration": "0 hours 22 minutes ",
+        "joinLeaveTime": " 06:48:53 AM -  07:10:34 AM",
+        "joinTime": "06:48:53",
+        "leaveTime": "07:10:34",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:39",
+        "updatedDateTime": "2023-07-23T09:04:39"
+    },
+    {
+        "id": 8318,
+        "japaParticipants": {
+            "id": 7068,
+            "email": "rohit10081998@gmail.com",
+            "name": "Rohit",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 58,
+        "duration": "0 hours 58 minutes ",
+        "joinLeaveTime": " 05:55:25 AM -  06:52:40 AM",
+        "joinTime": "05:55:25",
+        "leaveTime": "06:52:40",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:39",
+        "updatedDateTime": "2023-07-23T09:04:39"
+    },
+    {
+        "id": 8319,
+        "japaParticipants": {
+            "id": 7069,
+            "email": "kmrrupesh5@gmail.com",
+            "name": "Rupesh pr",
+            "dbId": "HLZ230300"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 13,
+        "duration": "0 hours 13 minutes ",
+        "joinLeaveTime": " 07:49:17 AM -  08:01:35 AM",
+        "joinTime": "07:49:17",
+        "leaveTime": "08:01:35",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:40",
+        "updatedDateTime": "2023-07-23T09:04:40"
+    },
+    {
+        "id": 8320,
+        "japaParticipants": {
+            "id": 7070,
+            "email": "sagar.sgr09@gmail.com",
+            "name": "Sagar pr",
+            "dbId": "HLZ230252"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 46,
+        "duration": "0 hours 46 minutes ",
+        "joinLeaveTime": " 06:55:39 AM -  07:41:37 AM",
+        "joinTime": "06:55:39",
+        "leaveTime": "07:41:37",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:41",
+        "updatedDateTime": "2023-07-23T09:04:41"
+    },
+    {
+        "id": 8321,
+        "japaParticipants": {
+            "id": 7071,
+            "email": "sibumishra546@gmail.com",
+            "name": "Satyabrat Mishra pr (Shibu)",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:41",
+        "updatedDateTime": "2023-07-23T09:04:41"
+    },
+    {
+        "id": 8322,
+        "japaParticipants": {
+            "id": 7072,
+            "email": "satyamkumar9245@gmail.com",
+            "name": "Satyam Mishra pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:42",
+        "updatedDateTime": "2023-07-23T09:04:42"
+    },
+    {
+        "id": 8323,
+        "japaParticipants": {
+            "id": 7073,
+            "email": "satyamsingh.ss27@gmail.com",
+            "name": "Satyam pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:43",
+        "updatedDateTime": "2023-07-23T09:04:43"
+    },
+    {
+        "id": 8324,
+        "japaParticipants": {
+            "id": 7074,
+            "email": "saurabhkumarojha123@gmail.com",
+            "name": "Saurabh kr pr(Chem)",
+            "dbId": "HLZ230547"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 43,
+        "duration": "0 hours 43 minutes ",
+        "joinLeaveTime": " 05:08:42 AM -  05:50:48 AM",
+        "joinTime": "05:08:42",
+        "leaveTime": "05:50:48",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:43",
+        "updatedDateTime": "2023-07-23T09:04:43"
+    },
+    {
+        "id": 8325,
+        "japaParticipants": {
+            "id": 7075,
+            "email": "saurav109677@gmail.com",
+            "name": "Saurav pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 63,
+        "duration": "1 hours 3 minutes ",
+        "joinLeaveTime": " 05:44:17 AM -  06:52:11 AM",
+        "joinTime": "05:44:17",
+        "leaveTime": "06:52:11",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:44",
+        "updatedDateTime": "2023-07-23T09:04:44"
+    },
+    {
+        "id": 8326,
+        "japaParticipants": {
+            "id": 7076,
+            "email": "shkrsuman77@gmail.com",
+            "name": "Sekhar suman pr",
+            "dbId": "HLZ230063"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:45",
+        "updatedDateTime": "2023-07-23T09:04:45"
+    },
+    {
+        "id": 8327,
+        "japaParticipants": {
+            "id": 7077,
+            "email": "singh.shailendra949597@gmail.com",
+            "name": "Shailendra Singh pr",
+            "dbId": "HLZ230425"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 158,
+        "duration": "2 hours 38 minutes ",
+        "joinLeaveTime": " 03:56:38 AM -  06:34:16 AM",
+        "joinTime": "03:56:38",
+        "leaveTime": "06:34:16",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:45",
+        "updatedDateTime": "2023-07-23T09:04:45"
+    },
+    {
+        "id": 8328,
+        "japaParticipants": {
+            "id": 7078,
+            "email": "shaileshchunnu008@gmail.com",
+            "name": "Shailesh pr",
+            "dbId": null
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 76,
+        "duration": "1 hours 16 minutes ",
+        "joinLeaveTime": " 06:21:23 AM -  07:37:00 AM",
+        "joinTime": "06:21:23",
+        "leaveTime": "07:37:00",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:46",
+        "updatedDateTime": "2023-07-23T09:04:46"
+    },
+    {
+        "id": 8329,
+        "japaParticipants": {
+            "id": 7079,
+            "email": "shankykr1999@gmail.com",
+            "name": "Shashank pr",
+            "dbId": "HLZ230451"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:47",
+        "updatedDateTime": "2023-07-23T09:04:47"
+    },
+    {
+        "id": 8330,
+        "japaParticipants": {
+            "id": 7080,
+            "email": "sk969309@gmail.com",
+            "name": "Shubham Choudhary pr",
+            "dbId": "HLZ230528"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:47",
+        "updatedDateTime": "2023-07-23T09:04:47"
+    },
+    {
+        "id": 8331,
+        "japaParticipants": {
+            "id": 7081,
+            "email": "samlyt1915149@gmail.com",
+            "name": "Shyam pr",
+            "dbId": "HLZ230036"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:48",
+        "updatedDateTime": "2023-07-23T09:04:48"
+    },
+    {
+        "id": 8332,
+        "japaParticipants": {
+            "id": 7082,
+            "email": "shiv.ti@gmail.com",
+            "name": "Sivatma Gopinath Pr",
+            "dbId": "HLZ230900"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 64,
+        "duration": "1 hours 4 minutes ",
+        "joinLeaveTime": " 06:01:28 AM -  07:04:49 AM",
+        "joinTime": "06:01:28",
+        "leaveTime": "07:04:49",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:49",
+        "updatedDateTime": "2023-07-23T09:04:49"
+    },
+    {
+        "id": 8333,
+        "japaParticipants": {
+            "id": 7083,
+            "email": "skdas931891@gmail.com",
+            "name": "Sonu pr",
+            "dbId": "HLZ230334"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:49",
+        "updatedDateTime": "2023-07-23T09:04:49"
+    },
+    {
+        "id": 8334,
+        "japaParticipants": {
+            "id": 7084,
+            "email": "shreekantsingh511998@gmail.com",
+            "name": "Srikant pr",
+            "dbId": "HLZ230296"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:50",
+        "updatedDateTime": "2023-07-23T09:04:50"
+    },
+    {
+        "id": 8335,
+        "japaParticipants": {
+            "id": 7085,
+            "email": "shubhamkumarhit19@gmail.com",
+            "name": "Subha Krsna pr",
+            "dbId": "HLZ230282"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 28,
+        "duration": "0 hours 28 minutes ",
+        "joinLeaveTime": " 06:58:43 AM -  07:25:51 AM",
+        "joinTime": "06:58:43",
+        "leaveTime": "07:25:51",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:51",
+        "updatedDateTime": "2023-07-23T09:04:51"
+    },
+    {
+        "id": 8336,
+        "japaParticipants": {
+            "id": 7086,
+            "email": "subhamchandra597@gmail.com",
+            "name": "Subham Chandra pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:51",
+        "updatedDateTime": "2023-07-23T09:04:51"
+    },
+    {
+        "id": 8337,
+        "japaParticipants": {
+            "id": 7087,
+            "email": "guptasubham175@gmail.com",
+            "name": "Subham Gupta",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:52",
+        "updatedDateTime": "2023-07-23T09:04:52"
+    },
+    {
+        "id": 8338,
+        "japaParticipants": {
+            "id": 7088,
+            "email": "sukumar712702@gmail.com",
+            "name": "Sukumar pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:53",
+        "updatedDateTime": "2023-07-23T09:04:53"
+    },
+    {
+        "id": 8339,
+        "japaParticipants": {
+            "id": 7089,
+            "email": "sumanvasta0@gmail.com",
+            "name": "Suman vatsa",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:53",
+        "updatedDateTime": "2023-07-23T09:04:53"
+    },
+    {
+        "id": 8340,
+        "japaParticipants": {
+            "id": 7090,
+            "email": "suraj.don10april@gmail.com",
+            "name": "Suraj pr Gaya",
+            "dbId": "HLZ230130"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 118,
+        "duration": "1 hours 58 minutes ",
+        "joinLeaveTime": " 06:03:31 AM -  08:01:08 AM",
+        "joinTime": "06:03:31",
+        "leaveTime": "08:01:08",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:54",
+        "updatedDateTime": "2023-07-23T09:04:54"
+    },
+    {
+        "id": 8341,
+        "japaParticipants": {
+            "id": 7091,
+            "email": "bunty.biswas547@gmail.com",
+            "name": "Trideep pr",
+            "dbId": "HLZ230229"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 55,
+        "duration": "0 hours 55 minutes ",
+        "joinLeaveTime": " 06:51:03 AM -  07:45:16 AM",
+        "joinTime": "06:51:03",
+        "leaveTime": "07:45:16",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:55",
+        "updatedDateTime": "2023-07-23T09:04:55"
+    },
+    {
+        "id": 8342,
+        "japaParticipants": {
+            "id": 7092,
+            "email": "varun.idea21@gmail.com",
+            "name": "Varun pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:55",
+        "updatedDateTime": "2023-07-23T09:04:55"
+    },
+    {
+        "id": 8343,
+        "japaParticipants": {
+            "id": 7093,
+            "email": "ved.divg@gmail.com",
+            "name": "Veda Prakash pr",
+            "dbId": "HLZ230231"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:56",
+        "updatedDateTime": "2023-07-23T09:04:56"
+    },
+    {
+        "id": 8344,
+        "japaParticipants": {
+            "id": 7094,
+            "email": "vikashkumar982141@gmail.com",
+            "name": "Vikash pr",
+            "dbId": "HLZ230110"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:57",
+        "updatedDateTime": "2023-07-23T09:04:57"
+    },
+    {
+        "id": 8345,
+        "japaParticipants": {
+            "id": 7095,
+            "email": "vinay7121989@gmail.com",
+            "name": "Vinay kr singh pr",
+            "dbId": null
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:57",
+        "updatedDateTime": "2023-07-23T09:04:57"
+    },
+    {
+        "id": 8346,
+        "japaParticipants": {
+            "id": 7096,
+            "email": "vinitkj15@gmail.com",
+            "name": "Vinit pr",
+            "dbId": "HLZ230705"
+        },
+        "status": "ABSENT",
+        "reason": null,
+        "totalMinutes": null,
+        "duration": null,
+        "joinLeaveTime": null,
+        "joinTime": null,
+        "leaveTime": null,
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:58",
+        "updatedDateTime": "2023-07-23T09:04:58"
+    },
+    {
+        "id": 8347,
+        "japaParticipants": {
+            "id": 7097,
+            "email": "vishal9sept@gmail.com",
+            "name": "Vishal Singh Pr",
+            "dbId": "HLZ230012"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 38,
+        "duration": "0 hours 38 minutes ",
+        "joinLeaveTime": " 05:54:53 AM -  06:32:16 AM",
+        "joinTime": "05:54:53",
+        "leaveTime": "06:32:16",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:59",
+        "updatedDateTime": "2023-07-23T09:04:59"
+    },
+    {
+        "id": 8348,
+        "japaParticipants": {
+            "id": 7098,
+            "email": "rsvjvivek@gmail.com",
+            "name": "Vivek pr Gaya",
+            "dbId": "HLZ230202"
+        },
+        "status": "PRESENT",
+        "reason": null,
+        "totalMinutes": 86,
+        "duration": "1 hours 26 minutes ",
+        "joinLeaveTime": " 05:44:19 AM -  05:44:19 AM",
+        "joinTime": "05:44:19",
+        "leaveTime": "05:44:19",
+        "date": "2023-07-23",
+        "createdDateTime": "2023-07-23T09:04:59",
+        "updatedDateTime": "2023-07-23T09:04:59"
+    }
+]
